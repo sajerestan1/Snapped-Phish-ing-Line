@@ -1,5 +1,4 @@
 # Snapped-Phish-ing-Line
-
 ![image](https://github.com/user-attachments/assets/d29c2c43-a8c3-49e7-a5c5-af9685025162)
 
 ## Personal Project: Analyzing a Phishing Incident Leading to Stolen Credentials
